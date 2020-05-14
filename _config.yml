@@ -1,25 +1,25 @@
 ---
-title: Jekyll PWA Starter
-timezone: UTC
+title: Jesus Calls
+timezone: GMT
 destination: _site/
-domainname: https://pwa-jekyll-starter.netlify.com
+domainname: https://jesuscallsministries.org
 baseurl: /
-sitename: My Website
+sitename: Jesus Calls
 assetsurl: /static-assets/
 markdown: kramdown
 highlighter: rouge
 exclude:
-- config
-- screenshots
-- node_modules
-- gulpfile.js
-- package.json
-- src
-- README.md
-- Gemfile
-- Gemfile.lock
-- Dockerfile
-- docker-entrypoint.sh
+  - config
+  - screenshots
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - src
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Dockerfile
+  - docker-entrypoint.sh
 port: 4000
 plugins:
   - liquid-md5
@@ -29,4 +29,3 @@ sass:
 # bootstrap = true/false
 webmentions: true
 bootstrap: false
-

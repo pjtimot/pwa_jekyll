@@ -1,16 +1,13 @@
 platform:
   - name: twitter
-    url: 'https://twitter.com/jshvgt'
-    class: u-url
-  - name: github
-    url: 'https://github.com/dumaurier'
+    url: 'https://twitter.com/jesuscalls'
     class: u-url
   - name: email
-    url: 'mailto:joshvogt@gmail.com'
+    url: 'mailto:europe@jcpray.org'
     class: u-email
   - name: sms
-    url: 'sms:+14169671111'
+    url: 'sms:+442085174900'
     class: u-tel
   - name: my site
-    url: 'https://joshvogt.co'
+    url: 'https://jesuscallsministries.org'
     class: u-url
