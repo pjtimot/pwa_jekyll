@@ -30,3 +30,8 @@ sass:
 webmentions: true
 bootstrap: false
 
+
+description: Jekyll - Starter
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
